@@ -1,12 +1,10 @@
 cmake_minimum_required(VERSION 3.12)
 
-# Define our project with the name "TowerDefence"
+# Define our project with the name "FarnDefence"
 project(FarmDefence)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
-
-
 
 # Find SFML
 find_package(SFML 2.5 COMPONENTS network system window graphics audio REQUIRED)
