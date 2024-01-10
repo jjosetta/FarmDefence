@@ -13,7 +13,11 @@ shoot.
 There is also a point system for evaluating how well the player has played, with a maximum of 5750 points. Points are gained when an 
 enemy is killed. 
 
-# Group
+
+# Credits
+This project is developed as a group project of Aalto University ELEC-A7151 Object-oriented Programming with C++ course in 2023. The responsible teacher for the course was Yusein Ali, and the project advisor was Tuukka Himanka.
+
+The project was developed by
 - Josetta Rautapää
 - Henry Kivijärvi
 - Venla Lindgrén
